@@ -12,8 +12,8 @@ cd my-project
 npm init -y
 ```
 
-create index.html file (copy current index.html as template)
-craete index.js file
+create index.html file (copy current index.html as template)<br>
+craete index.js file, add your custom code here, then:
 
 ```
 parcel index.html
