@@ -31,6 +31,16 @@ cd mnist-core
 npm install
 npm run watch
 ```
+### Error note:
+If you got error below:
+```
+ERR! tfjs-examples-addition-rnn@0.1.0 postinstall: `yarn upgrade — pattern @tensorflow`
+```
+You need to instll yarn
+```
+ brew install yarn
+```
+
 
 ### Details
 
